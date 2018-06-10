@@ -39,8 +39,8 @@ api-token:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  #siteurl: 'http://hmfaysal.github.io/Notepad/'
+  #relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:
     _posts:
